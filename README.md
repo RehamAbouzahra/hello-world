@@ -1,3 +1,4 @@
 # hello-world
-Just an introductory repository
-And this is a feature, a new branch 
+Just an introductory repository.
+This is a feature, a copy of Hello-world.
+
